@@ -21,4 +21,4 @@ A static Ethiopian café menu built with React and Vite.
 ## How to Run
 
 1. `npm install`
-2. `npm run dev`
+2. `npm run dev`# addis-cafe
