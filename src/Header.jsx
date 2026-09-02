@@ -1,10 +1,10 @@
-export default function Header() {
-  const restaurantName = "Addis Café"; 
+function Header() {
   return (
     <header className="header">
-      <h1>☕ {restaurantName}</h1>
-      <p>Fresh Ethiopian Food & Coffee</p>
-      <p>📍 Bole, Addis Ababa</p>
+      <h1>☕ Addis Eats</h1>
+      <p>Interactive Menu & TeleBirr Delivery</p>
     </header>
   );
 }
+
+export default Header;
